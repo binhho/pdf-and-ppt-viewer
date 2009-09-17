@@ -6,10 +6,10 @@ Requires at least: 2.8
 Tested up to: 2.8.4
 Stable tag: 0.0.1
 
-PDF and PPT Viewer helps you embed PDF documents and Power Point presentations easily. Does not require Flash to be installed on your computer, pure JavaScript!
+PDF and PPT Viewer helps you embed PDF documents and Power Point presentations easily. 
 
 == Description ==
-PDF and PPT Viewer helps you embed PDF documents and Power Point presentations easily. Does not require Flash to be installed on your computer, pure JavaScript! The plugin makes use of [Google Docs undocumented feature ](http://googlesystem.blogspot.com/2009/09/embeddable-google-document-viewer.html "Google Docs undocumented feature ")
+PDF and PPT Viewer helps you embed PDF documents and Power Point presentations easily. Does not require Flash to be installed on your computer, pure JavaScript! The plugin makes use of Google Docs undocumented feature.
 
 == Installation ==
 
